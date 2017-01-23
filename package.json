@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Joey Grillo",
-  "license": "ISC",
+  "author": "Joseph Grillo",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.15.3",
     "express": "^4.14.0",
@@ -25,6 +25,8 @@
     "css-loader": "^0.23.1",
     "foundation-sites": "6.2.0",
     "jquery": "^2.2.1",
+    "node-sass": "^4.3.0",
+    "sass-loader": "^4.1.1",
     "script-loader": "^0.6.1",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.13"
